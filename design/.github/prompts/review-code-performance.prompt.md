@@ -1,5 +1,5 @@
 ---
-name: review-performance-optimization
+name: review-code-performance-optimization
 description: パフォーマンス最適化に関するコードレビューを実施する
 ---
 

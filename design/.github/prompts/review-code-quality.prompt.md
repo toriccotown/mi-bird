@@ -1,5 +1,5 @@
 ---
-name: review-quality
+name: review-code-quality
 description: ソフトウェア品質に関するコードレビューを実施する
 ---
 

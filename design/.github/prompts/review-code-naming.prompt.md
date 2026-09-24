@@ -1,5 +1,5 @@
 ---
-name: review-naming
+name: review-code-naming
 description: 命名に関するコードレビューを実施する
 ---
 

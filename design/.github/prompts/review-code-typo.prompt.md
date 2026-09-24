@@ -1,5 +1,5 @@
 ---
-name: review-typo
+name: review-code-typo
 description: 誤字脱字・スペルミス・表記ゆれに関するレビューを実施する
 ---
 

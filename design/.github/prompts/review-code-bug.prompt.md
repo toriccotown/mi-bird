@@ -1,5 +1,5 @@
 ---
-name: review-bug
+name: review-code-bug
 description: バグ検出に特化したコードレビューを実施する
 ---
 

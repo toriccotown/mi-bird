@@ -1,5 +1,5 @@
 ---
-name: review-resource-optimization
+name: review-code-resource-optimization
 description: リソース最適化に関するコードレビューを実施する
 ---
 

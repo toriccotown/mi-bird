@@ -1,5 +1,5 @@
 ---
-name: review-message
+name: review-code-message
 description: ユーザー向けメッセージ、ログメッセージ、例外メッセージの品質レビューを実施する
 ---
 

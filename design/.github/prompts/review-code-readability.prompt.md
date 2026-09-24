@@ -1,5 +1,5 @@
 ---
-name: review-readability
+name: review-code-readability
 description: コードの可読性に関するレビューを実施する
 ---
 

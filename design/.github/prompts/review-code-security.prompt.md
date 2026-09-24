@@ -1,5 +1,5 @@
 ---
-name: review-security
+name: review-code-security
 description: セキュリティに関するコードレビューを実施する
 ---
 

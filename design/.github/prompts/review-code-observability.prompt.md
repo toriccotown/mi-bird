@@ -1,5 +1,5 @@
 ---
-name: review-observability
+name: review-code-observability
 description: オブザーバビリティ（可観測性）に関するコードレビューを実施する
 ---
 

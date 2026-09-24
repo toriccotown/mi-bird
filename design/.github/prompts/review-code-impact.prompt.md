@@ -1,5 +1,5 @@
 ---
-name: review-impact
+name: review-code-impact
 description: 影響範囲の問題を検出するコードレビューを実施する
 ---
 
