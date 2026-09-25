@@ -336,7 +336,7 @@ honeypot_log, malware_sample, ioc, project_management テーブルだけでよ�
   - 要件や設計どおりに動作することを確認する
 
 - **⭐ 運用（『 Operation 』）**
-  - 
+  - システムを安定稼働する
 
 ---
 
