@@ -1,6 +1,6 @@
 # Mi-Bird マインド
 
-## 深く知る３点
+## PSP
 ### (Product)プロダクト
 ### (Skill)スキル
 ### (Person)人
